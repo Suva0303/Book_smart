@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/68114bac-4781-464c-a511-cbd2e0bd0811)## Создание Программного обеспечения
 ---
 
 **Студент:**  
@@ -51,13 +50,51 @@ Use Case
 
 ![image](https://github.com/user-attachments/assets/522b2a6d-9785-438e-94c5-dfe6d098cc72)
 ________
+
 Activity Diagram
+ 
 ![image](https://github.com/user-attachments/assets/ce1a908e-3da8-485d-ac78-ed2aed00883a)
 _________
 
 Sequence Diagram
+
 ![image](https://github.com/user-attachments/assets/d4ef7a3b-eafb-408d-8fa0-f3d59f2560ac)
 
 _____________
+
+ERD Diagram 
+
+![image](https://github.com/user-attachments/assets/f365451d-cb61-4831-952b-3a2bc69e85ad)
+
+_____________
+
+## Функционал 
+
+### Главная страница 
+
+
+![Book-Smart](https://github.com/user-attachments/assets/7b05d496-3bd8-4136-8995-3a67b0f06ed9)
+_______
+
+
+### Страница каталога 
+![Book-Smart catalog](https://github.com/user-attachments/assets/749fe918-c278-4739-a143-37279abd72a5)
+
+
+
+_________
+
+### Личный кабинет 
+
+![Book-Smart profile](https://github.com/user-attachments/assets/5f165e9f-212b-4d8a-9e81-8fd13a9ff511)
+
+
+______
+
+### Страница корзины 
+
+![Book-Smart cart](https://github.com/user-attachments/assets/0a5c8024-546b-4025-b793-5de36364006f)
+
+
 
 

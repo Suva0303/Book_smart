@@ -71,13 +71,15 @@ _____________
 
 ### Главная страница 
 
+![image](https://github.com/user-attachments/assets/eb6ed91f-ca6f-4a05-b4bd-729963fd5217)
 
-![Book-Smart](https://github.com/user-attachments/assets/7b05d496-3bd8-4136-8995-3a67b0f06ed9)
+
 _______
 
 
 ### Страница каталога 
-![Book-Smart catalog](https://github.com/user-attachments/assets/749fe918-c278-4739-a143-37279abd72a5)
+
+![image](https://github.com/user-attachments/assets/788326ae-e48d-47aa-9419-c2a792ed89e2)
 
 
 
@@ -85,14 +87,14 @@ _________
 
 ### Личный кабинет 
 
-![Book-Smart profile](https://github.com/user-attachments/assets/5f165e9f-212b-4d8a-9e81-8fd13a9ff511)
+![image](https://github.com/user-attachments/assets/a57e3de5-1305-4116-b35e-afa2735db419)
 
 
 ______
 
 ### Страница корзины 
 
-![Book-Smart cart](https://github.com/user-attachments/assets/0a5c8024-546b-4025-b793-5de36364006f)
+![image](https://github.com/user-attachments/assets/803d94ce-7b67-482a-8372-89a686357d40)
 
 
 
